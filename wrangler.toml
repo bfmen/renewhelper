@@ -24,6 +24,6 @@ crons = ["0,30 * * * *"]
 
 # 环境变量默认值 (可选)
 # 部署时通常会提示用户输入，这里作为默认值
-[vars]
-AUTH_PASSWORD = "admin"
+#[vars]
+#AUTH_PASSWORD = "admin"
 
